@@ -1,0 +1,420 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Cheddar Cheese Fillet Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["cream cheese"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["water"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Spread the chicken breasts onto a baking sheet. Cover with plastic wrap. Bake in a preheated oven for 20 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGreek Sweet Potato Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["ground beef"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["ground ginger"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["salt"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large bowl, mix together the cream cheese, onion, and blue cheese. Pour over bread mixture and sprinkle with bread crumbs."]}
+{"step": ["Bake in preheated oven for 25 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken Chili Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["chile-garlic sauce"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["brown sugar"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["lemon juice"]}
+{"step": ["Heat olive oil in a skillet over medium heat. Saute onions until tender, about 5 minutes. Add tomatoes, onions, and garlic; cook and stir until the onion has softened and turned translucent. Stir in the onion and garlic; cook and stir until onion is tender, about 5 minutes. Stir in the onion, garlic, and salt. Pour in the beef broth, and bring to a simmer. Reduce heat to medium-low and simmer until the beef is cooked through, about 15 minutes. Drain the bacon slices on a paper towel-lined plate."]}
+{"step": ["Stir in the chicken, and cook until tender. Season with salt and pepper. Stir in the cooked cream and vinegar. Bring to a boil over medium heat. Reduce heat to medium-low and simmer until the rice is tender, about 10 minutes. Stir in the onion and green pepper. Serve immediately."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Bacon Cheese Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["condensed cream of mushroom soup"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["chopped onion"]}
+{"ingredient": ["potatoes, peeled and cut into 1/2-inch thick slices"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["shredded sharp Cheddar cheese"]}
+{"ingredient": ["dried minced cheese"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic salt"]}
+{"ingredient": ["onion powder"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["chopped red onion"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["pepper"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["garlic salt"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["paprika"]}
+{"ingredient": ["ground ginger"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["garlic salt"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["red wine"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["whole chile peppers"]}
+{"ingredient": ["dried rosemary"]}
+{"ingredient": ["ground cayenne pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["bay leaf"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["ground black pepper to taste"]}
+{"step": ["Combine the tomato paste, milk, and soy sauce in a large pot. Stir in the chicken, mayonnaise, and mustard. Bring to a boil, then reduce heat to low, and simmer until the liquid is absorbed and the liquid has been absorbed, about 10 minutes. Stir in the hot pepper jelly, mixing well. Serve warm."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Sauerkraut Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["garlic"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["tomato sauce"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large saucepan, mix the green beans, cucumber, red onion, jalapeno, and cucumber. Stir in the chicken broth. Bring to a boil, reduce heat to medium-low, and simmer for 30 minutes."]}
+{"step": ["Stir hot, salt and pepper into skillet and reduce heat to low; simmer for 20 minutes."]}
+{"step": ["Stir in the cornstarch mixture and simmer until thickened, about 2 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSweet and Sour Salami Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["bone-in pork chops"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["sesame oil"]}
+{"ingredient": ["onion, sliced"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["green onions, chopped"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"step": ["Place the cooked chicken breast halves, cucumber, chicken, and corn in a large bowl and mix well. Pour over the lettuce. Sprinkle with parsley."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChocolate Chip Cookies III Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["macaroni"]}
+{"ingredient": ["packed brown sugar"]}
+{"ingredient": ["brown sugar"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["semisweet chocolate chips"]}
+{"ingredient": ["chopped pecans"]}
+{"step": ["Preheat oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking dish."]}
+{"step": ["In a medium bowl, mix together the cream cheese, 3/4 cup sugar, cornstarch, eggs, and vanilla. Beat until smooth. Stir in the cooled cake mix and vanilla. Stir in the chocolate chips. Spread the batter evenly into the prepared pan."]}
+{"step": ["Bake in the preheated oven for 40 to 45 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tCheesy Chocolate Cocktail Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["baking soda"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["butter"]}
+{"step": ["In a large bowl, cream together the butter, sugar, and vanilla extract to make an electric mixer. Beat in the eggs one at a time, then stir in the vanilla. Combine the flour mixture alternately with the milk, mixing just until incorporated. Stir in the eggs one at a time. Stir in the vanilla and flour. Stir in the rolled oats, cinnamon, and nuts. Stir in the flour mixture alternately with the milk. Pour batter into prepared pan."]}
+{"step": ["Bake in the preheated oven for 25 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Salad Dressing Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["broccoli, cut into pieces"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["green bell peppers, chopped"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["freshly ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["fresh cilantro"]}
+{"ingredient": ["green onions, chopped"]}
+{"ingredient": ["bay leaves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["sesame oil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["balsamic vinegar"]}
+{"ingredient": ["chicken stock"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Heat oil in a large skillet over medium-high heat. Place skinless on paper towels. Toss the chicken with the onion; cook until tender and lightly browned, 5 to 10 minutes. Transfer to paper towels, and set aside."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the pork into a large resealable plastic bag. Seal, and chop into 1/2 inch slices."]}
+{"step": ["Place the onions, carrots, cilantro, basil, and parsley in a bowl. Cover and refrigerate for 2 hours, or up to 1 hour."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Stir in the cilantro. Cover, and cook for 30 minutes. Strain out the seeds and return to saucepan. Stir in the basil, salt, and pepper. Cook and stir the meat in the butter until the onion has softened and the sauce is thickened. Add the potatoes, and cook until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir the corn into the skillet and simmer until the vegetables are tender, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken Breash and Ham Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried minced garlic"]}
+{"ingredient": ["dried minced garlic"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["paprika"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["chili powder"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"step": ["Place the soup into a large saucepan, and bring to a boil. Reduce heat to low; cover, and simmer until thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tPork Chops with Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["cream cheese"]}
+{"ingredient": ["chopped fresh mushrooms"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["paprika"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["cooked rice"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["dried rosemary"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cayenne pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["salt to taste"]}
+{"ingredient": ["fresh lime juice"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the steaks on a baking sheet."]}
+{"step": ["Roast in the preheated oven for 20 minutes, or until chicken is no longer pink in the center. Remove from the oven, and set aside."]}
+{"step": ["Place the pork chops, onion, and cilantro into a large saucepan. Cover, and cook over medium-high heat until the sauce is thickened, about 10 minutes. Stir in marinated potatoes, and cook until vegetables are tender, about 40 minutes. Drain."]}
+{"step": ["In a large bowl, mix together the beef broth, ketchup, cocktail sauce, soy sauce, vinegar, sugar, sesame seeds, and salt. Bring to a boil, cover and simmer until the pork is tender, about 15 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Bacon Bake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped celery"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["dried minced fresh ginger"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["chili powder"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["pepper"]}
+{"ingredient": ["salt and black pepper to taste"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic powder"]}
+{"step": ["Separate the mixture and remove from the marinade. Pour the mixture into a large skillet over medium heat. Cook and stir onions until the onion has softened and turned translucent. Stir in the chicken and salt; cook about 5 minutes more. Add cooked pasta and reduce heat to low; cover and simmer until soup is thickened, about 30 minutes. Stir in cooked rice, onion, and bell pepper. Season with salt and pepper. Serve hot."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tPork Chops with Cocktail Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["baking soda"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["buttermilk"]}
+{"ingredient": ["confectioners' sugar"]}
+{"ingredient": ["water"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["milk"]}
+{"step": ["Preheat oven to 400 degrees F (200 degrees C)."]}
+{"step": ["Mix sour cream, 2 tablespoons butter, and 1 teaspoon cinnamon in a bowl. Spread cake over the top of the cake mix. Chill and frost filling."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGrandma's Balsamic Rice Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["potatoes, peeled and cut into strips"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["minced fresh ginger root"]}
+{"ingredient": ["minced fresh ginger root"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["water"]}
+{"ingredient": ["red onion, sliced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["fresh lemon juice"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["oyster sauce"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["chopped fresh tomato"]}
+{"ingredient": ["salt to taste"]}
+{"ingredient": ["ground black pepper to taste"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["In a large bowl, combine the ground beef, mushrooms, bell pepper, green onions, green bell pepper, pepperoncini, and spinach flakes. Pour over chicken and seal. Top with pork chops, and seal."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSweet and Sour Cheese Soup II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["sweet pickle relish"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["packed brown sugar"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["quick-cooking oats"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["cream of tartar"]}
+{"ingredient": ["baking soda"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["margarine"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["c

@@ -1,0 +1,324 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Chocolate Chips and set aside."]}
+{"step": ["In a medium bowl, mix together the coconut milk, confectioners' sugar, and vanilla. Beat until smooth. Spread over the crust."]}
+{"step": ["Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 1 hour."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Sauerkraut Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken in a large bowl. Pour marinade over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with cold water; bring to a boil. Reduce heat to low; cover, and simmer for 20 minutes."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."]}
+{"step": ["In a large skillet, heat oil over medium heat. Stir in the onion, and cook until tender. Stir in the garlic, and cook until tender. Stir in the garlic, and cook until they are browned, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and simmer until the mixture is thickened, about 10 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and bring to a boil. Reduce heat to low; cover, and simmer until the meat is tender, about 15 minutes. Stir in the cooked rice."]}
+{"step": ["Stir the cooked rice into the skillet, and simmer until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Salad with Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with water. Bring to a boil, reduce heat to low, and simmer until the meat is tender, about 10 minutes. Stir in the cooked rice."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Sauerkraut Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken in a large bowl. Pour marinade over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with cold water; bring to a boil. Reduce heat to low; cover, and simmer for 20 minutes."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."]}
+{"step": ["In a large skillet, heat oil over medium heat. Stir in the onion, and cook until tender. Stir in the garlic, and cook until tender. Stir in the garlic, and cook until they are browned, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and simmer until the mixture is thickened, about 10 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and bring to a boil. Reduce heat to low; cover, and simmer until the meat is tender, about 15 minutes. Stir in the cooked rice."]}
+{"step": ["Stir the cooked rice into the skillet, and simmer until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Salad with Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken in a large bowl. Pour marinade over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with cold water; bring to a boil. Reduce heat to low; cover, and simmer for 20 minutes."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Brush the salmon fillets with olive oil. Place the chicken breasts in a single layer on a baking sheet."]}
+{"step": ["Bake in the preheated oven until cheese is melted, 5 to 10 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Chicken and Cheese Soup Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with water. Bring to a boil, reduce heat to low, and simmer until the meat is tender, about 10 minutes. Stir in the cooked rice."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and bring to a boil. Reduce heat to low; cover, and simmer until the meat is tender, about 15 minutes. Stir in the cooked rice."]}
+{"step": ["Stir the cooked rice into the skillet, and simmer until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Salad with Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken in a large bowl. Pour marinade over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with cold water; bring to a boil. Reduce heat to low; cover, and simmer for 20 minutes."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."]}
+{"step": ["In a large skillet, heat oil over medium heat. Stir in the onion, and cook until tender. Stir in the garlic, and cook until tender. Stir in the garlic, and cook until they are browned, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, chicken, and chicken; cook and stir until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"step": ["Stir in the chicken broth, and bring to a boil. Reduce heat to low; cover, and simmer until the meat is tender, about 15 minutes. Stir in the cooked rice."]}
+{"step": ["Stir the cooked rice into the skillet, and simmer until the mixture is thickened, about 5 minutes. Stir in the chicken broth, and cook until the mixture is thickened, about 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Sauerkraut Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken into the prepared baking dish. Sprinkle the remaining olive oil over the top."]}
+{"step": ["Bake in the preheated oven until the chicken is no longer pink in the center, about 30 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChicken and Sauerkraut Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken breasts in a large bowl. Pour the mixture over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken in a large bowl. Pour marinade over the chicken. Seal and shake to coat."]}
+{"step": ["Place the chicken breasts in a large pot and cover with cold water; bring to a boil. Reduce heat to low; cover, and simmer for 20 minutes."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."]}
+{"step": ["In a large skillet, heat oil over medium heat. Stir in the onion, and cook until tender. Stir in the garlic, and cook until tender. Stir in the garlic, and cook until they are browned, about 5 minutes. Stir in the garlic, and cook until they are tende

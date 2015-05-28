@@ -1,0 +1,526 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Chicken Breasts Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["chopped onion"]}
+{"ingredient": ["chopped onion"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["bay leaf"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["coarsely chopped celery"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["cooked chicken breasts"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["fresh lime juice"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the chicken in a large pot and cover with water. Bring to a boil, reduce heat to low, and simmer until the meat is tender, about 10 minutes. Stir in the mushrooms, and season with salt and pepper."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBaked Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["cooking spray"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["grated Parmesan cheese"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large bowl, mix together the chicken, bread crumbs, eggs, onion, garlic, and lemon juice. Season with salt and pepper."]}
+{"step": ["Stir in the chicken broth, chicken broth, salt, and pepper. Stir in the chicken broth, pepper, and cayenne pepper. Stir in the cooked pasta. Serve immediately."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBaked Macaroni and Peppers Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["cooking spray"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["celery, chopped"]}
+{"ingredient": ["carrots, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["dry mustard"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["red bell pepper, chopped"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["carrots, peeled and chopped"]}
+{"ingredient": ["green bell pepper, seeded and chopped"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["fresh lemon juice"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Place the bacon in a large skillet over medium heat. Cook and stir onion and garlic until onion is tender."]}
+{"step": ["Stir in the garlic, and cook for about 10 minutes, until the onion is translucent. Stir in the garlic, and cook until they are soft, about 5 minutes. Add the chicken, chicken, and garlic; cook and stir until the onions are tender, about 5 minutes. Stir in the onion and garlic; cook and stir until the onion is translucent, about 5 minutes. Stir in the chicken and cook until the mixture reduces by about and the mixture is hot."]}
+{"step": ["Stir in the garlic, and cook until they begin to soften, about 5 minutes. Stir in the cooked meat and cook until they are soft."]}
+{"step": ["Place the green beans in a large pot and cover with water. Bring to a boil, then reduce heat to low. Cover and simmer for 20 minutes. Stir in the sour cream. Season with salt and pepper."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSausage Bake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["chopped pecans"]}
+{"ingredient": ["coconut oil"]}
+{"ingredient": ["shredded coconut"]}
+{"ingredient": ["chopped walnuts"]}
+{"ingredient": ["chopped walnuts"]}
+{"ingredient": ["chopped pecans"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8-inch square baking dish."]}
+{"step": ["In a large bowl, cream together the butter, brown sugar, and white sugar until light and fluffy. Beat in the eggs one at a time, then stir in vanilla. Stir in the flour, baking powder, and salt. Stir in the flour mixture until just combined. Pour batter into prepared pan."]}
+{"step": ["Bake in the preheated oven for 15 minutes. Remove from oven and cool."]}
+{"step": ["In a large bowl, mix together the confectioners' sugar, butter, vanilla extract, and milk. Pour over cream cheese mixture."]}
+{"step": ["Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 1 hour."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSummer Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["pork tenderloin"]}
+{"ingredient": ["condensed cream of chicken soup"]}
+{"ingredient": ["water"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["chopped pecans"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground allspice"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground ginger"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground ginger"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground nutmeg"

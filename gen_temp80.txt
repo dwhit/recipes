@@ -1,0 +1,358 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Milk Pasta Squash Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["garlic"]}
+{"ingredient": ["kosher salt"]}
+{"ingredient": ["fresh ground black pepper"]}
+{"ingredient": ["onion powder"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["onion powder"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground ginger"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground thyme"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["hot pepper sauce"]}
+{"ingredient": ["miso paste"]}
+{"ingredient": ["lime juice"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cayenne pepper"]}
+{"step": ["Whisk together almonds, onion, cilantro, and garlic together in a small bowl."]}
+{"step": ["In a large saucepan, combine the tomatoes, tomatillo with a pinch of crushed red pepper, and lime leaves. Cook and stir until the teriyaki mixture is thickened. Stir in the remaining corn mixture and simmer 5 minutes. Drain beans, and transfer to a serving dish. Spread each with a strip of the pork spaghetti wedges."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tApplesauce Bomb Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["plain yogurt"]}
+{"ingredient": ["sliced almonds"]}
+{"ingredient": ["cream cheese, softened"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["water"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["vanilla extract"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large bowl, mix flour, cocoa, baking powder, baking soda, and salt together in a bowl until crumbly. Stir in chocolate chips and raisins. Mix until evenly mixed. Spread in each cookie, and bake in preheated oven until cookies are golden brown and muffin cookies are golden brown, about 10 minutes. Cool before slicing into a log two 9x13 inch roasting pan."]}
+{"step": ["Remove from oven and spread remaining milk over cranberry sauce. Roll the dough around the remaining 1/2 cup. Place pie under the prepared miniform. Drizzle strawberries all over filling and fill dough 2 inch lemon pieces."]}
+{"step": ["Bake in preheated oven for 7 to 10 minutes, or until lightly browned."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBanana Cake II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["salt"]}
+{"step": ["In a mixing bowl, combine the flour, 1/2 cup of water, brown sugar, salt, and 6 tablespoons sugar. Stir in the flour mixture alternately with the milk, mixing just until incorporated."]}
+{"step": ["Dip strips in the Gelatin Flavor and decoratively 3 creamed confectia crusts."]}
+{"step": ["Frosted topping of your hands, and cook 5 minutes or until cooled. Remove from heat and allow to cool completely."]}
+{"step": ["In a small bowl, combine the popcorn, milk, eggs, and salt. Cover and chill for at least 3 hours. Serve garnished with lime slices."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tTurnover Pickle Bag Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["green onions, chopped"]}
+{"ingredient": ["cholled tomatoes, drained"]}
+{"ingredient": ["finely chopped sweet onion"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped parsley"]}
+{"ingredient": ["steak, cored and chopped"]}
+{"ingredient": ["red kidney beans, drained"]}
+{"ingredient": ["feta cheese"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"step": ["Heat olive oil in a skillet over medium heat. Saute the onion and garlic in the melted butter until tender. Stir in the onion, garlic, and chile peppers. Cook and stir until onions are just starting to become a rich brown, about 5 minutes. Stir in garlic; cook and stir until the onions are golden, 10 to 15 minutes. Remove from heat."]}
+{"step": ["Stir in sugar, stir, and cook until the mixture is thickened. Pour in the marinade, and stir into the stock over medium heat, about 5 minutes."]}
+{"step": ["Increase heat to medium, and cook and stir for 5 minutes, then stir in the drained feta cheese."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChecker's Cherry Butter Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["chicken bouillon"]}
+{"ingredient": ["roughly chopped onion"]}
+{"ingredient": ["diced tomatoes with juice"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["minced fresh ginger root"]}
+{"ingredient": ["water"]}
+{"ingredient": ["bay leaf"]}
+{"ingredient": ["medium shrimp"]}
+{"ingredient": ["onion, diced"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["minced lime zest"]}
+{"ingredient": ["green onions, chopped"]}
+{"step": ["Pour chicken mixture into a blender and blend until smooth. Reserve marinade for the ice chips."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGeneria Maple Chocolate Cake II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["confectioners' sugar"]}
+{"ingredient": ["grated lemon zest"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["chopped pecans"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Place the butter and shortening onto a plate."]}
+{"step": ["Prepare an 8 inch square baking pan with cooking spray. Generously dust down to loosen cake. Pour the remaining mixture over the top of the cookies. Place in the butter or cookie sheet and cook until almost soft, about 5 minutes. Allow to cool completely on the baking sheet."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tHoney's Special Sweet Potatoes Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["sharp Cheddar cheese"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["dried basil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground dried marjoram"]}
+{"ingredient": ["chicken broth"]}
+{"step": ["Stir coconut milk, shredded cabbage, and Parmesan cheese into a 9 inch pie plate. Sprinkle over the chicken, sprinkle with ground beef."]}
+{"step": ["Bake in preheated oven for 3 hours. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGourdy Chicken Cake II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["sliced fresh mushrooms"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["dry mustard"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cayenne pepper"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["black pepper to taste"]}
+{"ingredient": ["petite diced tomatoes"]}
+{"ingredient": ["chopped fresh basil"]}
+{"ingredient": ["tomato paste (such as Old Bay)"]}
+{"ingredient": ["soy milk"]}
+{"ingredient": ["garlic, peeled"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["Worcestershire sauce"]}
+{"step": ["Preheat oven to 400 degrees F (200 degrees C)."]}
+{"step": ["Stir Ancoor 10 minutes, and add to stock or cooking mix. Remove and drizzle over the top of meat. Sprinkle with cheese to serve."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tPepper (Spray, Fat I Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["pork tenderloin"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["white vinegar"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["Italian sausage"]}
+{"ingredient": ["onion, chopped"]}
+{"ingredient": ["vegetable broth"]}
+{"ingredient": ["dry mustard"]}
+{"ingredient": ["bay leaves"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["shredded carrots"]}
+{"ingredient": ["ground turmeric"]}
+{"step": ["Bring water to a boil in a medium saucepan. Fill container with water to cover. Bring water to a boil, reduce heat to low, and simmer until tender."]}
+{"step": ["Preheat an outdoor grill for medium-high heat."]}
+{"step": ["In a small bowl, combine water and salt. Mix well."]}
+{"step": ["Melt butter in a large skillet over medium heat until warm, 5 to 7 minutes. Remove pan from heat."]}
+{"step": ["In a medium bowl, mix together cream cheese, curry powder, and garlic powder; set aside. Stir chicken into empty diabout 5 minutes, reserve."]}
+{"step": ["Bake in the preheated oven 10 minutes, or until the chicken and carrots are coated. Serve."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSupremed Crab Cakes Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["fresh tomatillos, unbaked"]}
+{"ingredient": ["cream cheese, softened"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["lard roast"]}
+{"ingredient": ["Worcestershire sauce"]}
+{"ingredient": ["grated Parmesan cheese"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["dry mustard"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried minced garlic"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["seasoned salt"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["dried rosemary, crushed"]}
+{"ingredient": ["fresh lime juice"]}
+{"ingredient": ["ground turmeric"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["skinless, boneless chicken breast halves"]}
+{"ingredient": ["fresh cilantro"]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain well in a colander."]}
+{"step": ["Place shrimp in a large pot; bring to a boil, reduce heat, cover, and simmer until the chicken breasts cook up the tops of the jars, about 2 minutes. Top with lemon juice. Serve warm."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tReal Garden Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["pinch of salt"]}
+{"ingredient": ["brown sugar"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["port wine (such as Sriggan)"]}
+{"ingredient": ["prepared rolled oats"]}
+{"ingredient": ["thin roast, peeled and deveined"]}
+{"ingredient": ["cooked white rice"]}
+{"ingredient": ["grated Parmesan cheese"]}
+{"ingredient": ["tomatoes, cut into 1/2-inch slices"]}
+{"ingredient": ["carrots, sliced"]}
+{"ingredient": ["red onion, thinly sliced"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["dried minced garlic"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["sesame seeds"]}
+{"ingredient": ["steak sauce"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["red wine"]}
+{"ingredient": ["chopped fresh parsness"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["carrots, diced"]}
+{"ingredient": ["lemon juice"]}
+{"ingredient": ["mist"]}
+{"ingredient": ["Salt and pepper to taste"]}
+{"step": ["Place the eggs in a deep pot."]}
+{"step": ["Lay the peppers in batches of mixture and potatoes into a 9x13-inch baking dish. Pour hot mixture over sausage; sprinkle with salt and pepper. Add enough water to cover the skillet; bring to a boil. Stir in shrimp. Stir in the prepared Parmesan cheese, garlic, and soup. Place potatoes in large baking dish to cool to event."]}
+{"step": ["Place eggs, margarine, and Swiss cheese in a shallow bowl, and add the mayonnaise and milk. Stir to mix."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tMiddi's Chicken Bake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["beef steak"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["onion, diced"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["dried thyme"]}
+{"ingredient": ["garlic, chopped"]}
+{"ingredient": ["grated smoked remaining cheese"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["diced tomatoes"]}
+{"ingredient": ["jalapeno pepper, minced"]}
+{"ingredient": ["lime, juiced"]}
+{"ingredient": ["distilled white vinegar"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["cilantro, minced"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["potatoes"]}
+{"ingredient": ["green bell peppers, diced"]}
+{"ingredient": ["rotini pasta"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["paprika, or to taste"]}
+{"ingredient": ["lime juice"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["distilled white vinegar"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["dried minced garlic"]}
+{"ingredient": ["chopped fresh tarragon"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"step": ["Heat 1 teaspoon olive oil, olive oil and brown sugar in medium-high heat until tender, but still firm. Stir in the soup, and cook 10 minutes, stirring occasionally until internal temperature forms and chicken is incorporated."]}
+{"step": ["Stir in red onion; cook and stir until browned, about 2 minutes. Stir in the shallots, serrano peppers, stewed tomatoes, peanuts, and sunflower seeds. Season with salt and pepper."]}
+{"step": ["Transfer scalling mix to a medium baking dish and sprinkle with red onion and salt. Spread the alballs with onion, and serve immediately."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tRoast with Garlic Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["skinless, boneless chicken breasts"]}
+{"ingredient": ["margarine"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["large eggs"]}
+{"ingredient": ["sharp Cheddar cheese"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["fresh ground black pepper to taste"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["cream cheese, softened"]}
+{"ingredient": ["garlic, peeled"]}
+{"ingredient": ["chicken broth, or more if needed"]}
+{"step": ["In a large bowl, mix the 1 cup of water, lemon juice, onion, pepper, cumin, mint, and garlic powder. Season with salt and black pepper to taste. Cover and chill for 1 hour."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tPeanut Butter Cookies Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["instant hot chocolate mix"]}
+{"ingredient": ["frozen whipped topping, thawed"]}
+{"ingredient": ["chopped walnuts"]}
+{"step": ["Preheat an oven to 350 degrees F (175 degrees C). Lightly grease bottom and sugared wax paper."]}
+{"step": ["Beat cream cheese until stiff. Fold into pumpkin mixture until batter is small peaks. Mix in coconut milk and stir until creamy. Spread evenly into prepared pan."]}
+{"step": ["Cook on Low for 4 minutes. Serve warm over cake while still making up to the pie."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tDilly Nave Melot Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["fresh pineapple - peeled, pitted and sliced lengthwise"]}
+{"ingredient": ["water"]}
+{"ingredient": ["instant chocolate chips"]}
+{"ingredient": ["cocoa"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["water"]}
+{"ingredient": ["egg, beaten"]}
+{"ingredient": ["frozen key light brown sugar"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["semisweet chocolate chips"]}
+{"ingredient": ["chopped pecans"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Whisk the milk, dressing mix, cabbage, and 1/2 teaspoon cinnamon into a large bowl, and cover with hot water. Beat together the sugar and vanilla extract to beaten. Beat in the eggs one at a time, then stir in the vanilla. Stir in the milk and vanilla. Refrigerate until firm, about 3 hours."]}
+{"step": ["Preheat an oven to 425 degrees F (220 degrees C)."]}
+{"step": ["Fill a half for container) or a stand microwave-safe glasses. Cook about 15 minutes or until a metched."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSlow Cooker Pasta Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["chicken stock"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["pineapple chunks, drained"]}
+{"ingredient": ["diced tomatoes"]}
+{"ingredient": ["fresh macaroni, diced"]}
+{"ingredient": ["water"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["fresh green beans"]}
+{"ingredient": ["yellow onion, chopped"]}
+{"ingredient": ["red bell pepper, cut in half"]}
+{"ingredient": ["Gorgonzola cheese, cubed"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["whole peeled tomatoes, drained"]}
+{"step": ["Bring a large pot of water to a boil, heat oil and stir in the pork, and scrape rice and green pepper. Reduce heat to low, simmer, stirring occasionally, reduce heat to medium-low, and simmer until flavors soften, 50 seconds. Mix in shrimp, and cover pitn to make the lettuce. Strain the butter mixture into the shells, and from the corned beef salad or meat into a looplent portion."]}
+{"step": ["Place the cooked skillet over medium-low heat, and cook until browned, 3 to 5 minutes per side."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSweet and Sour Blueberry Muffins Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["shortening"]}
+{"ingredient": ["chopped pecans"]}
+{"step": ["In a large bowl, stir together flour, baking powder and salt. Gradually stir in the coffee; then mix in the sugar, water and vanilla until thoroughly combined; stir in the the almonds. Spoon yogurt mixture into the prepared pan and sprinkle with 3/4 cup of remaining whipped topping mixture. Repeat all over the batter with the sauce. Let stand about 30 minutes."]}
+{"step": ["Beat the confectioners' sugar, flour, and salt in a large bowl until smooth; the sweet potatoes thicken into 1 1/2-inch balls. Divide the batter into pieces. Bake for 30 minutes in the preheated oven, then turn off the oven temperature every 30 minutes, remove from the oven."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSpicy French Toast Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["cherry tomatoes, halved"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["sugar"]}
+{"ingredient": ["ground white pepper"]}
+{"ingredient": ["dried cranberries"]}
+{"ingredient": ["sea salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["black pepper"]}
+{"ingredient": ["fresh jalapnes, peeled and minced"]}
+{"step": ["In a small bowl, whisk together the vinegar, mustard, vodka, hot salsa, salt, pepper, and vinegar; set aside."]}
+{"step": ["Combine potatoes, onion, and green onions in a small bowl. Place bowl into skillet. Add the butter and pepper to taste; toss to coat."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSweet and Salad and Feta Green Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["penne pasta"]}
+{"ingredient": ["whole chicken"]}
+{"ingredient": ["diced celery"]}
+{"ingredient": ["minced garlic"]}
+{"ingredient": ["mayonnaise"]}
+{"ingredient": ["minced fresh parsley"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["ground black pepper to taste"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["ground black pepper to taste"]}
+{"step": ["Whisk rice vinegar, olive oil, sherry, sesame seeds, white sugar, and seafood seasoning to partially blend, and remove roast. Toss together the tamarind cream into onions and almonds in a third bowl, cover and shake to coat."]}
+{"step":

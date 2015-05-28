@@ -1,0 +1,304 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Milk Pasta Squash Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["fresh lime"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["rice vinegar"]}
+{"ingredient": ["dried parsley"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["dried oregano"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["frozen green peas, juiced"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["red kidney beans, rinsed and drained"]}
+{"ingredient": ["black beans, rinsed, and rinsed"]}
+{"ingredient": ["tomatillo salad dressing"]}
+{"ingredient": ["avocado, diced"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["dry white wine"]}
+{"ingredient": ["fresh spinach, rinsed and torn spears"]}
+{"ingredient": ["dried tomatoes, chopped"]}
+{"ingredient": ["Italian seasoning"]}
+{"ingredient": ["grated Parmesan cheese"]}
+{"step": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."]}
+{"step": ["Add tomatoes, onions, green chile peppers, chicken, onion, yellow onion, celery, and garlic; cook and stir until the garlic is completely softened, 5 to 10 minutes."]}
+{"step": ["Stir black beans into chicken mixture and simmer until the portion is very tender, 30 to 45 minutes. Stir in tomato paste and cook for another 5 to 10 minutes; pour into a large bowl."]}
+{"step": ["Bring a saucepan of lightly salted water to a boil. Cook the ground beef in boiling water, stirring occasionally until they done. Drain well in a colander set inside of pasta."]}
+{"step": ["In a large bowl, mix corn mixture, mashed potatoes, 1/4 cup into a bowl, and pour over the pork chops."]}
+{"step": ["Bake in the preheated oven for 25 minutes, or until the chicken is no longer pink in the center should read at least 145 degrees F (63 degrees C)."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSweet Potato Carbonade Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["lemon cake mix"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["lieht brown sugar"]}
+{"step": ["Sift warm milk, baking powder, baking soda, and salt together in a bowl; fold in the chopped walnuts. Pour batter into prepared muffing mixture."]}
+{"step": ["Bake for 30 to 35 minutes, until a toothpick inserted into center of a cupcake comes out clean."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tLemon Pepper Sarpicker with Garlic Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["marinated artichoke hearts, drained"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["dry onion soup mix"]}
+{"ingredient": ["potatoes, quartered"]}
+{"ingredient": ["red onion, chopped"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["fresh lime juice"]}
+{"ingredient": ["grated fresh lemon juice"]}
+{"ingredient": ["ground thyme"]}
+{"ingredient": ["chopped fresh ginger"]}
+{"ingredient": ["paprika"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["celery seed"]}
+{"ingredient": ["ground coriander"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["onion, finely chopped"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["fresh lime juice"]}
+{"ingredient": ["red wine vinegar"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["hot pepper sauce"]}
+{"step": ["Mix the coconut milk, olive oil, chile paste, soy sauce, pepper, and black pepper together in a bowl until no lumps are fragrant and chopped and crispy and leaves flaked in small bowl. Stir onion and white wine into onions."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tCreamy Cheese Sundries Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["skinless, boneless chicken meat (such as Apa Gelatin)"]}
+{"ingredient": ["canola oil"]}
+{"ingredient": ["pork tenderloin, diced"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["pepperoncini peppers"]}
+{"step": ["Preheat an oven to 325 degrees F (165 degrees C)."]}
+{"step": ["Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water has been cooked through and drain."]}
+{"step": ["In a large pot of salted water, and place lid on the stove over medium heat, and cook until tender. Drain well."]}
+{"step": ["Melt 2 tablespoons butter in a skillet over medium heat. Stir in red pepper, and cook until theme are browned."]}
+{"step": ["Pour over the chicken and vegetables. Cover and cook for 5 minutes."]}
+{"step": ["Stir in corn and garlic; add thicken slices. Cover, and cook for about 15 minutes to blend."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tEaster Skillet Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["cubed, cooked bacon"]}
+{"ingredient": ["diced red onion"]}
+{"ingredient": ["soy milk"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["red wine"]}
+{"ingredient": ["minced fresh ginger"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["active dry yeast"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["chopped walnuts"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["lemon, juiced"]}
+{"ingredient": ["coconut oil"]}
+{"step": ["Place the pecans in a large bowl. Add the milk and salt and stir to make an even amount of the same."]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Grease and flour on low heat. Do not over about half of the oil mixture. Fill a sharpaner baking sheet with cooking spray. Drizzle the chocolate mixture over top of cake and stir just until completely blended. Press into pie dish."]}
+{"step": ["Bake in preheated oven for 60 to 70 minutes, or until a toothpick inserted into the center of the cake comes out clean. Pulse bag both and frosting before removing from foil and cool on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tComby Gorgonzola Bake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["water"]}
+{"ingredient": ["lime juice"]}
+{"ingredient": ["white vinegar"]}
+{"ingredient": ["lime, juiced and zested"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["roasted pistachios"]}
+{"step": ["In a skillet, mix the vinegar, soy sauce and cornstarch. Chill in a small plate until completely cooled."]}
+{"step": ["Place a cooking spray on the preheated grill, and cover. Add onion and garlic; cook until softened and lightly browned. Stir in the butter, butter, Worcestershire sauce, salt and pepper. Cover and cook over low heat until potatoes are tender and clear. Season to taste with salt and pepper."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tHomemade Mixed Ham Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["plain yogurt"]}
+{"ingredient": ["margarine"]}
+{"ingredient": ["brown sugar"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["butter, melted"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["Dark corn syrup"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["butter, softened"]}
+{"ingredient": ["vanilla extract"]}
+{"step": ["Preheat an oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large mixing bowl, combine pecans, coconut oil, brown sugar, vanilla extract, cinnamon, nutmeg, poppy seeds, and cloves. Stir to coat."]}
+{"step": ["Microwave soup mix with butter mixture into the melted chocolate mix mixture. Stir in the remaining flour, baking soda, and cinnamon. Cook over medium heat, melt until soft and smooth. Stir in walnuts; drop by spoonfuls over vegetables in the mixture."]}
+{"step": ["Stir in vanilla. Let cool to room temperature."]}
+{"step": ["Beat pudding mix and orange zest together in a bowl until creamy; set aside."]}
+{"step": ["In a small bowl, beat cream cheese until smooth. Beat in confectioners' sugar, and beat onto buttered surface. Spoon each into a 9x5 inch loaf pan."]}
+{"step": ["Place bread on a warm platter and bake in preheated oven for 30 to 35 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChocolate Cake III Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["raisins"]}
+{"ingredient": ["butter, softened"]}
+{"ingredient": ["cream cheese"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["water"]}
+{"step": ["Lightly grease a 9x13-inch baking dish."]}
+{"step": ["In a medium bowl, mix together the flour, sugar, baking powder, baking soda, and salt. Add eggs to a small bowl. Gradually stir in the cocoa powder. Stir in egg, milk and vanilla."]}
+{"step": ["Combine the flour, baking powder, vanilla extract, and salt in a bowl until they are combined. Stir in the chocolate chips and raisins. Pour batter into prepared pan."]}
+{"step": ["Bake in the preheated oven for 10 minutes. Remove cover, and cool completely."]}
+{"end_of_recipe": "END_OF_RECIPE"
+{"title": ["\r\n\tButter Five Cream Pie Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["oil-packed light brown sugar"]}
+{"ingredient": ["peanut butter"]}
+{"ingredient": ["pure vanilla extract"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["vanilla extract"]}
+{"step": ["In a medium bowl, mix 1/2 cup sugar, 1/2 teaspoon cinnamon, cinnamon, and nutmeg. Blend until evenly mixed. Stir in the oats and bananas. Pour over pie with a splash of cake layer."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGoat Cheese Kabake - Frackere Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["pork tenderloin"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["cream cheese"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["part-skim mozzarella cheese"]}
+{"step": ["In a large skillet, combine the oats, corn, nuts, and 1/2 cup colored unsweetened coconut oil."]}
+{"step": ["In a large mixing bowl, combine 3/4 cup flour, sugar, baking powder, and salt in a separate dish. Pour onto greased cookie sheet. Press one battered bread into pan. Bake in preheated oven for 10 minutes."]}
+{"step": ["In a small bowl, combine white sugar, warm water, 1/4 cup coconut flour, and cinnamon. Set aside to stand for 10 minutes. Cool to room temperature."]}
+{"step": ["In a large bowl, combine corn, cream cheese, peanut butter, and vanilla together in a large bowl until well combined and the mixture resembles coarse crumbs. Stir in the chocolate chips and coconut and coconut. Spread mixture into prepared muffin cups or a serving dish."]}
+{"step": ["Sprinkle one tablespoon of chocolate chips, and beat the egg yolks over the chocolate chips. Allow the bread to sit or frozen tongs."]}
+{"step": ["If pop rose the cake: Dust the hot cake with the sugar mixture. Sprinkle with melted chocolate and black topping. Return to the oven, about 30 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tErin's Chocolate Hawaiian Pie Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["pumpkin puree"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["butter"]}
+{"step": ["Place the shrimp and softened butter in a small, coat 9 inch square serving bowl. Pour mixture over cooled cake."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tShar6 Tomato Salsa Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["oil for frying"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["butter"]}
+{"step": ["In a large skillet over medium heat, melt butter. Stir in the flour, tomato juice, celery, onion powder, and balsamic vinegar. Cover and simmer until tender, about 5 minutes. Season with salt and pepper."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSpiced Chow Cake with Mix Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["baking soda"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["whole wheat flour"]}
+{"ingredient": ["frozen whipped topping, thawed"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["sour cream"]}
+{"ingredient": ["chopped walnuts"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a large mixing bowl, combine flour, white sugar, baking powder, and melted margarine. Add to creamed mixture and stir until just combined. Fill muffin mix together and stir in milk mixture until smooth. Fold in eggs one at a time, then stir in vanilla. Stir in the flour mixture alternately with the milk. Pour batter into prepared muffing roasting pan."]}
+{"step": ["Bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 15 to 20 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBlueberry Green Chowder Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["olive oil, divided"]}
+{"ingredient": ["lime, juiced"]}
+{"ingredient": ["fresh cilantro, chopped"]}
+{"ingredient": ["Marsala wine"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["chopped fresh parsley"]}
+{"ingredient": ["chopped pecans, drained"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["dried thyme"]}
+{"ingredient": ["white wine"]}
+{"ingredient": ["iceb top round steak, shredded"]}
+{"step": ["Preheat oven to 425 degrees F (200 degrees C)."]}
+{"step": ["Grease a 9x13-inch baking dish."]}
+{"step": ["Mix cornstarch, garlic, olive oil, salt, and black pepper together in a bowl; roll into 10 to 15 to 20 small, then tight in the plate, gathering into pieces."]}
+{"step": ["Mix ground beef mixture with the eggs. Pinch top of the potatoes down with plastic wrap and then inside rolls. Place 2 pieces on a grill onto a baking sheet."]}
+{"step": ["Bake in the preheated oven for 30 to 40 minutes, or until internal temperature of juices run clear. While the done and donene, reduce the heat to 300 degrees F (100 degrees C) and add the cheese. Spread the mussels over roast."]}
+{"step": ["Lay the pasta sheets on a baking sheet. Bake in medium for 15 minutes per minute to reduce heat to 350 degrees F (175 degrees C) oven."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tThai Carbonar-Carrot Cookies III Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["vinegar"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["vodka"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["poppy seeds"]}
+{"step": ["Place strawberries in a blender or food plasping bowl and mix well to mix."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tChinese Pineapple Supreme Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["lime juice"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground nutmeg"]}
+{"step": ["Place the warm water in a saucepan and cover with water. Bring to a boil over high heat. Reduce heat, cover, and simmer until the pastry has reached stilr cool, about 20 minutes. Drain and set aside."]}
+{"step": ["Drain the duck in muffin pan. Add the sugar, and stir until melted. Stir in the orange zest, then pour into a small bowl and mash it over the Keep and fold into the batter. Combine the brown sugar, lemon juice, and cinnamon in a saucepan over medium heat. Reduce heat to medium-low and simmer until the apple juices reach an olw 7 to 13 seconds. Stir in the peppermint extract, and set aside."]}
+{"step": ["Preheat the oven's broiler and set the broiler."]}
+{"step": ["Raise heat to 375 degrees F (190 degrees C). Lightly grease a medium baking dish."]}
+{"step": ["In a medium bowl, dissolve the yeast and sugar in a separate bowl. Separate and decorate and roll the dough into a 12 inch round. Roll into a log 1 inch thickness. Place the mashed potatoes into a 9x13 inch pan. In large bowl for about 30 seconds to release a rolling pin or setting."]}
+{"step": ["Form the back into the coconut flower mixture to coat in the crust mixture, starting the remaining eggs."]}
+{"step": ["Remove the baking dish from the mixer and set aside."]}
+{"step": ["Place the pastry cyrescaches in the oven processor on the parchment layer. Hold the filling into the meringue the flour mixture; place them in the strawberry pan. Bake in preheated oven for 15 minutes. Cool in the pan for 10 minutes, then turn out onto a wire rack in an oven for a minute and then remove from dish and place on baking sheet."]}
+{"step": ["Remove the lid, and sprinkle the marshmalon with a few pieces of semisweet chocolate."]}
+{"step": ["Bake at 350 degrees F (175 degrees C) for 30 to 45 minutes. Remove from oven and allow to cool completely. The sections cake will the bake."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tCreamy Shredded Chicken Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["dry black olives"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["red pepper flakes"]}
+{"ingredient": ["ground cumin, or to taste"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["ground cumin"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper to taste"]}
+{"step": ["For stratred beer (such as Grilli). Set aside."]}
+{"step": ["Mix the cucumber, onion, eggs, sugar, salt, and pepper. Blend until smooth. Pour over inderidge, just to coat."]}
+{"step": ["Fold together the tomatoes, slivered almonds, and paprika. Pour shredded cucumber mixture over salad."]}
+{"step": ["Toss pork tenderloins/with 1 tablespoon vinegar. Place the Parmesan cheese and cheese mixture over a baking sheet."]}
+{"step": ["Bake eggs in the oven for 15 minutes, or until tender. Let stand for 5 minutes, remove from steamed bags."]}
+{"step": ["To serve, slice the chicken thinls and discard marinade. Peel and chop the vein."]}
+{"step": ["Place the chicken breasts into the grill jar. Remove chicken; do not allow the salmon to pork or up to 2 hours."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tDollondon's Fads of a Chocolate Chip Cookies Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["sour cream"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["water"]}
+{"ingredient": ["packed brown sugar"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["lemon juice"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["butter"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9 inch square pan."]}
+{"step": ["In a large bowl, mix together the flour, baking powder and salt in a large bowl. Blend in remaining the eggs and oil so that elegh mixer."]}
+{"step": ["Stir in kuger and coffee. Stir in coconut and vegetable oil. Pour scallops over cake in flour mixture and beat rolling roll with an electric mixture so that the yolks may need the water flour internal temperature. Add the shortening mixture and stir to moisten. Pour into the prepared pan."]}
+{"step": ["Bake in the preheated oven for 45 minutes, or until a toothpick inserted into the center of the cake comes out clean. Cool in the pan then on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tShrimp and Pepper Soup Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["lean ground turkey"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["skinless, boneless chicken thighs, cut into strips"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["garlic, chopped"]}
+{"ingredient": ["grated Parmesan cheese"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"step": ["Place the beet halv

@@ -1,0 +1,300 @@
+[0musing CUDA on GPU 0...[0m	
+[0mcreating an LSTM...[0m	
+[0mseeding with  [0m	
+Milk Pasta Squash Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["garlic"]}
+{"ingredient": ["kosher salt"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["chicken, cut into chunks"]}
+{"ingredient": ["dried sage"]}
+{"ingredient": ["lemon, juiced"]}
+{"ingredient": ["chicken bouillon"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish."]}
+{"step": ["Unroll green beans, pat dry and pinch the black beans into small piquiches."]}
+{"step": ["Separate Bunch arugula cubes from remaining onion. Arrange tomatoes on top, and baste and seal the bag with the tomato slices. Top with tomatillos to serve."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tMolasses Brownies Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["graham cracker crumbs"]}
+{"ingredient": ["flax seed-flavored carrot"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["sliced green onion"]}
+{"ingredient": ["milk chocolate chips"]}
+{"ingredient": ["sweet potato, cut into 1 inch cubes"]}
+{"step": ["Microwave coconut water, sugar in microwave on medium speed over medium heat until melted. Pour mixture into valiela soup. Add 1/3 the coffee to the boiling water and stir."]}
+{"step": ["Stir in milk, carrots, corn, and boiling water. Stir well, cooking on them minute. Remove from heat."]}
+{"step": ["Place four and egg down in a warm bowl. Drop dough by tabast until as doughy."]}
+{"step": ["In a large stockpot saute heavy syrup over medium heat, melt in the microwave on medium to 275 degrees F (135 degrees C). Cover the baking sheet with a lid."]}
+{"step": ["Bake baks 5 minutes, or until crispy. Let stand over baking with the flakes or splash or other sides a few slices of filling onto a large baking sheet."]}
+{"step": ["Place rolls on a cookie sheet. In a small bowl, combine sugar, cinnamon and egg. Pour ovar chips into baked pumpkin layer over ice cream; sprinkle with brown sugar, and cinnamon."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBourbon Gouda Ice Brandy Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["prepared shrimp"]}
+{"ingredient": ["cream cheese, softened"]}
+{"ingredient": ["unsweetened cocoa powder"]}
+{"ingredient": ["hot flower rolls"]}
+{"ingredient": ["Redducranonsy Cheese or Chocolate Simmer NESTLE CARNE Chocolate Mashed sweet potatoes"]}
+{"step": ["Preheat oven to 375 degrees F (190 degrees C)."]}
+{"step": ["In a large bowl, stir together flour, 1/2 cup sugar, soda, baking powder, white sugar and salt."]}
+{"step": ["In a large bowl, cream together the butter and 2 cups of the sugar until light and fluffy. Beat in the eggs one at a time. Beat in, alternately with the half-and-half and the cream cheese; stir in the remaining flour."]}
+{"step": ["Blend egg and vanilla extract into the creamed batter in a sharp water or place until moistened. Stir pomegranate and cream with a wooden spoon until the mixture is very firm. Scrape out the bowl, then beat in the eggs one at a time, then stir in 2 teaspoons vanilla and sour cream, oney until well blended. Divide the center melted when cool, start to just develop a salt using a small based bag, underneath to the top and done the surface using a 4 order."]}
+{"step": ["Heat the  3 tablespoons of cantaloupe frosting in a medium bowl. Stir in the white sugar, white sugar, and 2/3 cup chopped almonds. Mix until sugar has dissolved; add the remaining ingredients to the flour mixture. Cover and chill stand for 1 hour, fully roll in cinnamon."]}
+{"step": ["PREHEAT the whites of a half, or touchen the davicadlet rolls, leave the simple sebven as the cake 1/3 the necessary."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tStuffed Cream Fudg Salad Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["beef steak - A.rier's"Netting"]}
+{"ingredient": ["margarine"]}
+{"ingredient": ["thinly sliced peeled sweet bread"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["poultry seasoning"]}
+{"ingredient": ["ground white pepper"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground black pepper"]}
+{"ingredient": ["chopped fresh oregano"]}
+{"step": ["Spread cantaloupe, and green beans into the ceramic bowls, then pour in half. Sprinkle them with olive oil, cooked bacon, and cilantro over 4 seconds. Place the Basil in a saucepan and pour the egg sugar over them. Cook until the sauce begins to sauce."]}
+{"step": ["Serve chicken the mango salsa over the top, and return the chicken to the skillet and remove the water from the bowl on a clean until serving."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGreen Shank Cake I Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["margarine"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["egg, beaten"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["water"]}
+{"ingredient": ["sugar"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["cake flour, for finger"]}
+{"ingredient": ["butter, softened"]}
+{"ingredient": ["hot water"]}
+{"ingredient": ["unsweetened cocoa powder"]}
+{"step": ["Mix the almonds, chocolate syrup, 1/2 teaspoon freshly cream, and 3/4 cup sugar together in a bowl; sprinkle over cinnamon mixture. Stir well, folding the mixture will foam. Stir in the nut mixture until combine consistency. Stir in the melted butter to make a smooth; pour over the top of the cupcakes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tGoat Cookies Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["boiling water"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["orange-flavored liqueur (such as Al)"]}
+{"ingredient": ["honey"]}
+{"ingredient": ["granola"]}
+{"ingredient": ["light soda"]}
+{"ingredient": ["hot chile peppers"]}
+{"step": ["In a microwave-safe bowl, mix together the sugar, raisins, mint, wheat cereal, peppermint extract, and green chile pepper. Cover and chill before serving."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tNorthern Chicken and Salad Dressing Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["potatoes"]}
+{"ingredient": ["boneless pork shoulder, cut lobers and skin to the sides of the mushrooms"]}
+{"ingredient": ["garlic powder"]}
+{"ingredient": ["red potatoes"]}
+{"ingredient": ["sour cream"]}
+{"ingredient": ["whole lemon juice"]}
+{"ingredient": ["red pepper flakes"]}
+{"ingredient": ["bay leaves"]}
+{"ingredient": ["mayonnaise"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["In a medium bowl, marinate bread topping in a medium bowl. Place a tortilla in the center of oven and bake until pork reaches 145 degrees F (63 degrees C). Cool for at least 10 minutes before serving."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tHaeevegal Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["gheep pie crust"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["all-purpose flour"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["soy milk"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["shredded Cheddar cheese"]}
+{"ingredient": ["egg whites"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["cream cheese, softened"]}
+{"step": ["In the pastry shells, free hamburger rub into a large bowl. Cut the eggs in a microwave on pot. Stir until well blended. Stir in brown sugar. Cover and refrigerate for 1 hour, or up to 1 week."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tMarmatic Cocktail Snack Cake Cake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["warm milk"]}
+{"ingredient": ["sifted all-purpose flour"]}
+{"ingredient": ["baking soda"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["packed brown sugar"]}
+{"ingredient": ["yellow cornmeal"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["grated lemon zest"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["dried apricots"]}
+{"ingredient": ["whole tomatoes"]}
+{"ingredient": ["frozen limeade concentrate"]}
+{"step": ["Place the sliced onions into a large saucepan. Stir, and gently runn the raspberries, and cook boiling browned pan until tender. Stir in miniature mixer. Add butter and mix for another additional 3 minutes, until smooth, 1 to 2 minutes. Pour apple mixture into glass mixture, and cook 10 minutes. Allow to cool."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tCaliban Pork Chops Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["barbeque sauce"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["brown mustard"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["extra-virgin olive oil"]}
+{"ingredient": ["chopped pickled fresh dill weed"]}
+{"ingredient": ["shredded sharp Cheddar cheese"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Heat olive oil in a large skillet over medium heat. Cook and stir beef and onion until golden brown; set aside."]}
+{"step": ["Combine the chicken, onion, garlic, and green onions together in a large stock pot or saucepan over high heat; stir. Transfer to a serving dish. Cook on high for 1 hour, or until bottoms are just tender. Let stand for 5 minutes, but the toothpick."]}
+{"step": ["Serve with cheese."]}
+{"step": ["Bring a large pot of water to a boil. Drop the vegetables in the cold water. Divide the flesh of liquid, fold cake 2 times onto the the same skillet. Flatten the meat cooker in a resealable pan. Season with salt and pepper. Scrape the macaroni mixture into 2-inch balls."]}
+{"step": ["Heat the oil in a large skillet over medium-high heat. Fry the chicken in the oil until golden brown."]}
+{"step": ["Transfer the meatballs to a colander. Fold over Cheddar moons; sprinkle with remaining 1 teaspoon salt, and arrange the dough strips on top of the creamed loaf. Repeat with the remaining crackers."]}
+{"step": ["Carne pieces of tosmered chicken with vinegar and stir until they are pink and the juices run clear. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove from broiler and allow to stand for 5 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBlueberry Coffee Cake Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["frozen blueberries"]}
+{"ingredient": ["frankfurters (accuof the mixture)"]}
+{"ingredient": ["cream cheese"]}
+{"ingredient": ["cooking oil"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["cream cheese, softened"]}
+{"ingredient": ["butter"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheet. Sift together the flour, nuts and salt."]}
+{"step": ["Drain cream cheese and blend well. Batter a large ball shake, mixing the tablespoon in the peanut mixture into the flour mixture with the remaining confectioners' sugar. Pour batter into the pie biscuit."]}
+{"step": ["Bake and gently fold the dough into four surfaces. Bake 10 to 12 minutes or until the filling is bubbly. Cool in pan for 10 minutes before removing to cool completely on a wire rack."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tPotato Soup II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["carrots, peeled and seeds"]}
+{"ingredient": ["carrots, chopped"]}
+{"ingredient": ["mango peppers, seeded and diced"]}
+{"ingredient": ["extra-virgin olive oil"]}
+{"ingredient": ["textad roasted red potatoes"]}
+{"ingredient": ["red onion, sliced"]}
+{"ingredient": ["hot sauce"]}
+{"ingredient": ["salt and pepper to taste"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["cold water"]}
+{"step": ["Place a slow cooker or two flesh into the jar and place in a large steamer basket, and add tomatoes to stop. Serve warm."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tMicrowaved Beef Stew Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["Stuffed Mint"]}
+{"ingredient": ["black pepper to taste"]}
+{"step": ["Preheat oven to 350 degrees F (175 degrees C)."]}
+{"step": ["Shake one bowl in a large bowl or food processor. Process until creamy; add the soup. Reserve upside down, add the remaining garlic, mint, oil, and turntrigo. Stir to combine oil with a fork, and set aside."]}
+{"step": ["In a small bowl, whisk together the mayonnaise, pine nuts and parsley."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tBreakfast Lover's Carrot Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["condensed cream of mushroom soup"]}
+{"ingredient": ["cubed Brusted chicken stock"]}
+{"ingredient": ["chicken broth"]}
+{"ingredient": ["heavy cream"]}
+{"ingredient": ["kale, chopped"]}
+{"ingredient": ["jalapeno, halved lengthwise (used)"]}
+{"ingredient": ["salt to taste"]}
+{"ingredient": ["melon lime juice"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["soy sauce"]}
+{"ingredient": ["port wine"]}
+{"ingredient": ["salt"]}
+{"ingredient": ["bone-in powder"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["vinegar"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["chili powder"]}
+{"ingredient": ["white sugar"]}
+{"ingredient": ["dried apricots"]}
+{"ingredient": ["chili powder"]}
+{"ingredient": ["chili powder"]}
+{"ingredient": ["cayenne pepper"]}
+{"ingredient": ["bay leaves"]}
+{"step": ["Whisk potato, and garlic in a stockpot; add chicken and onions; cook and stir until the onions are soft, 5 to 10 minutes. Mix reserved a tortilla in the bottom of the pan."]}
+{"step": ["In a medium bowl, toss together pineapple or garlic, ginger, olives, red onion, 3 tablespoons salt, black pepper and 2 teaspoons of soy sauce. Season with more if needed. If using one your hands to release out."]}
+{"step": ["Top with cilantro."]}
+{"step": ["In a small bowl, combine with half the olive oil, garlic powder, garlic salt, gluten, milk, sesame oil, red wine vinegar, garlic, and chicken broth. Stir into the salad, toss to coat. Cover and refrigerate for 2 hours."]}
+{"step": ["Preheat oven to 375 degrees F (190 degrees C)."]}
+{"step": ["On a large grill. Wrap them tightly infused baking rack in a resealable plastic bag. Cover with foil, and bake for 20 minutes or until chicken juices run clear. Serve immediately."]}
+{"end_of_recipe": "END_OF_RECIPE"
+{"title": ["\r\n\tBanana Biteretime Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["sliced mushrooms"]}
+{"ingredient": ["hot pepper sauce (duch butter)"]}
+{"ingredient": ["peanut oil"]}
+{"ingredient": ["sea salt to taste"]}
+{"ingredient": ["pepperod tomatoes, chopped"]}
+{"ingredient": ["fresh parsley, chopped"]}
+{"step": ["Heat the olive oil in a large skillet over medium heat; cook shallots and bell pepper in fat coling oil until evenly browned, about 30 minutes. Remove from heat and keep oven, refrigerate buns."]}
+{"step": ["Toss together the cream cheese, sour cream and 1 packet of Swiss cheese, mixing thoroughly. Crumble the chicken and sprinkle with the cheese. Spread the melted butter over the top of the bread crumbs. Pour the cracker crumbs over the mixture and top with bread crumbs."]}
+{"step": ["Bake in the preheated oven for 30 minutes or until the cheese is melted. (Entile of the Four strips are lighter in dough (or it strips or the meal), adding more fresh mozzarelli. Leave the soup in a softer basebal) for five minutes)."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tCola Cake II Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["canola oil"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["butter, melted"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["vegetable oil, divided"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["semisweet chocolate chips"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["ground cloves"]}
+{"ingredient": ["baking powder"]}
+{"ingredient": ["ground nutmeg"]}
+{"ingredient": ["vegetable oil"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["petal triangles"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["eggs"]}
+{"ingredient": ["cornstarch"]}
+{"ingredient": ["vanilla extract"]}
+{"ingredient": ["semisweet chocolate chips"]}
+{"ingredient": ["ground cinnamon"]}
+{"ingredient": ["butter, melted"]}
+{"ingredient": ["powdered milk"]}
+{"ingredient": ["all-purpose flower"]}
+{"step": ["In a small saucepan over medium heat, stir together the anise oil for melted whites for add the peanut butter frosting to combine milk. Spread evenly with beaten egg salt. Stir in peanut butter and vanilla until fluffy. Combine confectioners' sugar, and chocolate chips. Bake 45 minutes, or until a toothpick inserted into the center of the cobber of cake comes out clean. Let cake mozzarella cheese until bottom the edges have cooked through."]}
+{"step": ["Remove from oven and let cool."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tSpiced and Sesame Chicken Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["dry bread crumbs"]}
+{"ingredient": ["finely chopped minced onion"]}
+{"ingredient": ["garlic, minced"]}
+{"ingredient": ["diced tomatoes with green chile peppers, or more to taste"]}
+{"ingredient": ["chopped fresh cilantro"]}
+{"ingredient": ["slivered almonds"]}
+{"ingredient": ["diced ham"]}
+{"ingredient": ["lime juice"]}
+{"step": ["Cook sausage, stir fry to bowl in water in a skillet over medium-low heat. Stir in Parmesan cheese. Saute 3 to 5 minutes, meating constantly until heated through, 4 to 5 minutes."]}
+{"step": ["Arrange chicken and garlic onto a baking rack to thicken, and slite. Cook until heated through. Ladle each burger strips you can mix your dipping so that the potatoes; set in water for 2 minutes."]}
+{"step": ["Place the venison into a large stock pot of cold water. Bring to a boil; reduce heat to simmer and boil, stirring, until the vinegar has dissolves. (If along don't the cobs of frozen liquid for even don's for well they your uniform. Baste until the chicken liquid is hot, 10 to 12 minutes."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tHawaiian Parmesan Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["e later pastry shells, drained"]}
+{"ingredient": ["shallot, lightly grated"]}
+{"ingredient": ["olive oil"]}
+{"ingredient": ["fresh lime juice"]}
+{"ingredient": ["crumbled feta"]}
+{"ingredient": ["egg, beaten"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["butter"]}
+{"ingredient": ["egg"]}
+{"ingredient": ["milk"]}
+{"ingredient": ["core-flavored crackers, coarsely chopped"]}
+{"ingredient": ["water"]}
+{"ingredient": ["chopped fresh oregano"]}
+{"step": ["Preheat oven to 325 degrees F (165 degrees C). Add egg and milk until they form into a foam to 1/2 inch from the sides of a blender; bake 30 minutes. Spread batter among your ham over the eggplant and secure with toothpicks."]}
+{"step": ["Pour crabmeat over the meat mixture; cover with aluminum foil. Mix together in a small bowl until thoroughly combined; stir in remaining chopped desired soy sauce, Parmesan cheese, and Greek mozzarella cheese."]}
+{"end_of_recipe": "END_OF_RECIPE"}
+{"title": ["\r\n\tNewmean Cookier IV Recipe - Allrecipes.com\r\n"]}
+{"ingredient": ["seeded and clams (presserto) with grated Graham Cracker Crumbs or white wine"]}
+{"ingredient": ["sour cream"]}
+{"ingredient": ["strawberry flavored cantaloupe bourbon"]}
+{"step": ["Place pears shortening into a large saucepan and bring to a boil. Boil for one minute. Remove from heat, allow to cool completely."]}
+{"step": ["In a small bowl, beat 1 1/2 cup sugar until well blended. Drop the dolla of the batter by the manufacturer. Set into a large bowl and stir in 2/3 cup sugar, and the cinnamon until the creamy. Spread batter into the bottom of an 8 inch or gase or prepared loaf pan."]}
+{"step": ["Bake in the preheated oven until the topping is golden brown, 25 to 30 minutes."]}
+{"end_of_recipe":
