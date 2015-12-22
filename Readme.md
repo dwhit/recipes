@@ -2,7 +2,7 @@
 
 This code is taken from the (amazing and cool Andrej Karpathy). I used it to created new recipes from a databased I scraped from allrecipes.com
 
-Message me if you want the data, it's about 40 gigs of recipes in json format.
+The data is compressed in the data folder. It's about 40 gigs of recipes and ingredient lists in a JSON format.
 
 # Original repo below
 
