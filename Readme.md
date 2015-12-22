@@ -1,6 +1,6 @@
 #Note: 
 
-This code is taken from the (amazing and cool Andrej Karpathy). I used it to created new recipes from a databased I scraped from allrecipes.com
+This code is taken from (the amazing and cool) Andrej Karpathy. I used it to created new recipes from a databased I scraped from allrecipes.com
 
 The data is compressed in the data folder. It's about 40 gigs of recipes and ingredient lists in a JSON format.
 
