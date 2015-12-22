@@ -1,3 +1,10 @@
+#Note: 
+
+This code is taken from the (amazing and cool Andrej Karpathy). I used it to created new recipes from a databased I scraped from allrecipes.com
+
+Message me if you want the data, it's about 40 gigs of recipes in json format.
+
+# Original repo below
 
 # char-rnn
 
